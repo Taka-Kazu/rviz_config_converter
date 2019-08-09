@@ -5,7 +5,7 @@ Convert rviz configuration file format bidirectionally
 - Python3
 
 ## Environment
-- tested on ROS kinetic and ROS2 dashing
+- ROS kineitc or melodic <=> ROS2 dashing conversion is confirmed
 
 ## How to use
 ```
